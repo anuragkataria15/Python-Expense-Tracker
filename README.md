@@ -2,6 +2,9 @@
 
 A modern web-based Expense Tracker built with Python and Streamlit.
 
+# Demo
+https://python-expense-tracker-iqi6ingpvt6tnqpsrzyr4a.streamlit.app/
+
 # 🚀 Features
 - Add, view, and analyze daily expenses
 - Interactive dashboard with charts
@@ -12,3 +15,4 @@ A modern web-based Expense Tracker built with Python and Streamlit.
 Python | Streamlit | Pandas
 
 # ▶️ Run Locally
+

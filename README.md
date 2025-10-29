@@ -1,17 +1,14 @@
-# 🎬 AI Movie Recommender
+# 💸 Expense Tracker Dashboard
 
-A simple AI-powered movie recommendation web app built with Python, Pandas, scikit-learn, and Streamlit.
+A modern web-based Expense Tracker built with Python and Streamlit.
 
 # 🚀 Features
-- Recommends 5 similar movies based on the user's input  
-- Uses CountVectorizer + Cosine Similarity for content-based filtering  
-- Clean and interactive Streamlit UI  
-- Runs entirely online — no installation required  
+- Add, view, and analyze daily expenses
+- Interactive dashboard with charts
+- Data stored locally in CSV
+- One-click deployment on Streamlit Cloud
 
-# 🛠 Tech Stack
-Python, Pandas, scikit-learn, Streamlit
+# 🧠 Tech Stack
+Python | Streamlit | Pandas
 
-# 💡 How to Run Locally
-
-pip install -r requirements.txt
-streamlit run ai_movie_recommender_app.py
+# ▶️ Run Locally
